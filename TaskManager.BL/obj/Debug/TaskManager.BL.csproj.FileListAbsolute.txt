@@ -1,0 +1,15 @@
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\bin\Debug\TaskManager.BL.dll.config
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\bin\Debug\TaskManager.BL.dll
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\bin\Debug\TaskManager.BL.pdb
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\bin\Debug\EntityFramework.dll
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\bin\Debug\TaskManager.DAL.dll
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\bin\Debug\TaskManager.DAL.pdb
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\bin\Debug\TaskManager.DAL.dll.config
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\bin\Debug\EntityFramework.xml
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\obj\Debug\TaskManager.BL.csprojAssemblyReference.cache
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\obj\Debug\TaskManager.BL.csproj.CoreCompileInputs.cache
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\obj\Debug\TaskManager.BL.csproj.CopyComplete
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\obj\Debug\TaskManager.BL.dll
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.BL\obj\Debug\TaskManager.BL.pdb

@@ -1,0 +1,11 @@
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\bin\Debug\TaskManager.DAL.dll.config
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\bin\Debug\TaskManager.DAL.dll
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\bin\Debug\TaskManager.DAL.pdb
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\bin\Debug\EntityFramework.dll
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\bin\Debug\EntityFramework.xml
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL.csproj.CoreCompileInputs.cache
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL.csproj.CopyComplete
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL.dll
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL.pdb

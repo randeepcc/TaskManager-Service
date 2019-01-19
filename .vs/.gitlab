@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 301,
+    "Username": "randeepcc",
+    "Name": "Randeep",
+    "Email": "randeepcc@gmail.com",
+    "AvatarUrl": "http://www.gravatar.com/avatar/325f1b73d69ac7928336071ea8d0a4ab?s=80&d=identicon",
+    "PrivateToken": "de61a6f27010095dd3de8aca498ec295b75b672d7102c61c630940493242932a",
+    "Host": "http://172.18.2.18/",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
