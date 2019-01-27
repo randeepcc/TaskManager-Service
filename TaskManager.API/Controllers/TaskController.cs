@@ -35,8 +35,10 @@ namespace TaskManager.API.Controllers
 
         // PUT: api/Task/5
         [Route("UpdateTask")]
-        public void Put(Task item)
+        public IHttpActionResult Put(Task item)
         {
+            obj.Edit(item);
+            return Ok("Record saved successfully");
         }
 
         [Route("EndTask")]
@@ -46,8 +48,11 @@ namespace TaskManager.API.Controllers
         }
 
         // DELETE: api/Task/5
-        public void Delete(int id)
+        [Route("DeleteTask")]
+        public IHttpActionResult Delete(int id)
         {
+            obj.Delete(id);
+            return Ok("Record deleted successfully");
         }
     }
 }

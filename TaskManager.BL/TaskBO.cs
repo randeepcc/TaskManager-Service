@@ -18,9 +18,12 @@ namespace TaskManager.BL
             }
         }
 
-        public Task GetTask(int ID)
+        public List<Task> GetTask(int ID)
         {
-            return null;
+            using (TaskDBEntities db = new TaskDBEntities())
+            {
+                return db.Tasks.Where(s => s.TaskID ==ID).ToList();
+            }
         }
 
         //add task
@@ -45,8 +48,11 @@ namespace TaskManager.BL
 
         //delete
         public void Delete(int id)
-        {
-
+        {            
+            var context = new TaskDBEntities();
+            var taskrow = new Task { TaskID = id };
+            context.Entry(taskrow).State = System.Data.Entity.EntityState.Deleted;
+            context.SaveChanges();
         }
     }
 }

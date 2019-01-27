@@ -1,6 +1,6 @@
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.PerformanceTest\bin\Debug\TaskManager.PerformanceTest.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.PerformanceTest\bin\Debug\TaskManager.PerformanceTest.pdb
-C:\Capsule\TaskManager Web\TaskManager\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.csprojAssemblyReference.cache
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.csproj.CoreCompileInputs.cache
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.pdb
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.csprojAssemblyReference.cache
