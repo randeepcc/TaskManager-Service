@@ -6,9 +6,12 @@ using System.Net.Http;
 using System.Web.Http;
 using TaskManager.DAL;
 using TaskManager.BL;
+using System.Web.Http.Cors;
 
 namespace TaskManager.API.Controllers
 {
+
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class TaskController : ApiController
     {
         // GET: api/Task
@@ -21,6 +24,7 @@ namespace TaskManager.API.Controllers
         }
 
         // GET: api/Task/5
+        [Route("GetById/{id}")]
         public IHttpActionResult Get(int id)
         {
             return Ok(obj.GetTask(id));
@@ -34,8 +38,10 @@ namespace TaskManager.API.Controllers
         }
 
         // PUT: api/Task/5
+
         [Route("UpdateTask")]
-        public IHttpActionResult Put(Task item)
+        [HttpPut]
+        public IHttpActionResult UpdateTask([FromBody] Task item)
         {
             obj.Edit(item);
             return Ok("Record saved successfully");

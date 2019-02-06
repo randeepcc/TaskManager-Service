@@ -56,7 +56,9 @@ C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\Microsoft.Web.Infrast
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\Newtonsoft.Json.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Diagnostics.DiagnosticSource.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Net.Http.Formatting.dll
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Cors.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Helpers.dll
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Http.Cors.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Http.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Http.WebHost.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Mvc.dll
@@ -74,10 +76,11 @@ C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\TaskManager.DAL.pdb
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\TaskManager.DAL.dll.config
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\EntityFramework.xml
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\EntityFramework.SqlServer.xml
-C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\Newtonsoft.Json.xml
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Net.Http.Formatting.xml
-C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Helpers.xml
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Http.xml
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Http.Cors.xml
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\Newtonsoft.Json.xml
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Helpers.xml
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Http.WebHost.xml
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Mvc.xml
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Optimization.xml
@@ -94,6 +97,3 @@ C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\obj\Debug\TaskManager.API
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\obj\Debug\TaskManager.API.csproj.CopyComplete
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\obj\Debug\TaskManager.API.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\obj\Debug\TaskManager.API.pdb
-C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Cors.dll
-C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Http.Cors.dll
-C:\Capsule\TaskManager Web\TaskManager\TaskManager.API\bin\System.Web.Http.Cors.xml
