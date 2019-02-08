@@ -76,7 +76,7 @@ namespace TaskManager.UnitTest
         {
             int ID = 1;
             TaskBO obj = new TaskBO();
-            int actual = obj.GetTask(ID).Count;
+            int actual = obj.GetTask(ID).TaskID;
             Assert.Greater(actual, 0);
         }
     }

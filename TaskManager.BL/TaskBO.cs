@@ -18,11 +18,12 @@ namespace TaskManager.BL
             }
         }
 
-        public List<Task> GetTask(int ID)
+        public Task GetTask(int ID)
         {
             using (TaskDBEntities db = new TaskDBEntities())
             {
-                return db.Tasks.Where(s => s.TaskID ==ID).ToList();
+                return db.Tasks.Find(ID);
+                //return db.Tasks.Where(s => s.TaskID ==ID);
             }
         }
 

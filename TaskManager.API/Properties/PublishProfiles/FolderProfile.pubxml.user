@@ -274,19 +274,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/01/2018 11:20:56</publishTime>
     </File>
     <File Include="bin/TaskManager.API.dll">
-      <publishTime>02/06/2019 03:45:03</publishTime>
+      <publishTime>02/08/2019 00:51:59</publishTime>
     </File>
     <File Include="bin/TaskManager.API.pdb">
-      <publishTime>02/06/2019 03:45:03</publishTime>
+      <publishTime>02/08/2019 00:51:59</publishTime>
     </File>
     <File Include="bin/TaskManager.BL.dll">
-      <publishTime>02/06/2019 01:16:32</publishTime>
+      <publishTime>02/08/2019 00:51:58</publishTime>
     </File>
     <File Include="bin/TaskManager.BL.dll.config">
       <publishTime>01/05/2019 22:29:26</publishTime>
     </File>
     <File Include="bin/TaskManager.BL.pdb">
-      <publishTime>02/06/2019 01:16:32</publishTime>
+      <publishTime>02/08/2019 00:51:58</publishTime>
     </File>
     <File Include="bin/TaskManager.DAL.dll">
       <publishTime>02/06/2019 01:16:30</publishTime>

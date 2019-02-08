@@ -28,6 +28,7 @@ namespace TaskManager.API.Controllers
         public IHttpActionResult Get(int id)
         {
             return Ok(obj.GetTask(id));
+            //return obj.GetTask(id);
         }
 
         // POST: api/Task
@@ -39,10 +40,11 @@ namespace TaskManager.API.Controllers
 
         // PUT: api/Task/5
 
-        [Route("UpdateTask")]
-        [HttpPut]
-        public IHttpActionResult UpdateTask([FromBody] Task item)
+        [Route("UpdateTask")]  
+        [HttpPost]
+        public IHttpActionResult UpdateTask(Task item)
         {
+            
             obj.Edit(item);
             return Ok("Record saved successfully");
         }
@@ -54,7 +56,8 @@ namespace TaskManager.API.Controllers
         }
 
         // DELETE: api/Task/5
-        [Route("DeleteTask")]
+        [Route("DeleteTask/{id}")]
+        [HttpPost]
         public IHttpActionResult Delete(int id)
         {
             obj.Delete(id);
