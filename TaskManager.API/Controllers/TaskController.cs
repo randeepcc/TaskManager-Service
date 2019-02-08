@@ -41,7 +41,7 @@ namespace TaskManager.API.Controllers
         // PUT: api/Task/5
 
         [Route("UpdateTask")]  
-        [HttpPost]
+        [HttpPut]
         public IHttpActionResult UpdateTask(Task item)
         {
             
@@ -57,8 +57,8 @@ namespace TaskManager.API.Controllers
 
         // DELETE: api/Task/5
         [Route("DeleteTask/{id}")]
-        [HttpPost]
-        public IHttpActionResult Delete(int id)
+        [HttpDelete]
+        public IHttpActionResult DeleteTask(int id)
         {
             obj.Delete(id);
             return Ok("Record deleted successfully");

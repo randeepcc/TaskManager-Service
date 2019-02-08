@@ -5,7 +5,6 @@ C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\bin\Debug\EntityFramework
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\bin\Debug\EntityFramework.SqlServer.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\bin\Debug\EntityFramework.xml
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\bin\Debug\EntityFramework.SqlServer.xml
-C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL.csprojAssemblyReference.cache
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL.csproj.CoreCompileInputs.cache
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL.csproj.CopyComplete
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL.dll
