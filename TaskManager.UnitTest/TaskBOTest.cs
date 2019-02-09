@@ -6,12 +6,18 @@ using System.Threading.Tasks;
 using NUnit.Framework;
 using TaskManager.DAL;
 using TaskManager.BL;
+using NBench;
 
 namespace TaskManager.UnitTest
 {[TestFixture]
     public class TaskBOTest
     {
-        //[Test]
+        [Test]
+        [TestCase]
+        [PerfBenchmark(NumberOfIterations = 500, RunTimeMilliseconds = 600000, RunMode = RunMode.Iterations)]
+        [CounterMeasurement("MyCounter")]
+        [MemoryMeasurement(MemoryMetric.TotalBytesAllocated)]
+
         public void testGetAll()
         {
             TaskBO obj = new TaskBO();
@@ -19,7 +25,11 @@ namespace TaskManager.UnitTest
             Assert.Greater(actual, 0);
         }
 
-       // [Test]
+        [Test]
+        [TestCase]
+        [PerfBenchmark(NumberOfIterations = 500, RunTimeMilliseconds = 600000, RunMode = RunMode.Iterations)]
+        [CounterMeasurement("MyCounter")]
+        [MemoryMeasurement(MemoryMetric.TotalBytesAllocated)]
         public void testAdd()
         {
             TaskBO BO = new TaskBO();
@@ -53,13 +63,17 @@ namespace TaskManager.UnitTest
 
         }
 
-        //[Test]
+        [Test]
+        [TestCase]
+        [PerfBenchmark(NumberOfIterations = 500, RunTimeMilliseconds = 600000, RunMode = RunMode.Iterations)]
+        [CounterMeasurement("MyCounter")]
+        [MemoryMeasurement(MemoryMetric.TotalBytesAllocated)]
         public void testEdit()
         {
             TaskBO BO = new TaskBO();
             DAL.Task obj = new TaskManager.DAL.Task()
             {
-                TaskID=3,
+                TaskID=2,
                 Name = "Task Edit Test",
                 Priority = 3,
                 ParentID = 333,
@@ -72,6 +86,10 @@ namespace TaskManager.UnitTest
         }
 
         [Test]
+        [TestCase]
+        [PerfBenchmark(NumberOfIterations = 500, RunTimeMilliseconds = 600000, RunMode = RunMode.Iterations)]
+        [CounterMeasurement("MyCounter")]
+        [MemoryMeasurement(MemoryMetric.TotalBytesAllocated)]
         public void testGetTaskbyID()
         {
             int ID = 1;
