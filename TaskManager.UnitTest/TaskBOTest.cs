@@ -36,7 +36,7 @@ namespace TaskManager.UnitTest
             DAL.Task obj = new TaskManager.DAL.Task()
             {
                 Name = "Task Unit",
-                Priority = 2,
+                //Priority = 2,
                 ParentID = 4,
                 StartDate = DateTime.Now,
                 EndDate = DateTime.Now,
@@ -75,7 +75,7 @@ namespace TaskManager.UnitTest
             {
                 TaskID=2,
                 Name = "Task Edit Test",
-                Priority = 3,
+                //Priority = 3,
                 ParentID = 333,
                 StartDate = DateTime.Now,
                 EndDate = DateTime.Now,
@@ -95,6 +95,14 @@ namespace TaskManager.UnitTest
             int ID = 1;
             TaskBO obj = new TaskBO();
             int actual = obj.GetTask(ID).TaskID;
+            Assert.Greater(actual, 0);
+        }
+
+        [Test]
+        public void testGetAllProjects()
+        {
+            ProjectBO obj = new ProjectBO();
+            int actual = obj.GetAll().Count;
             Assert.Greater(actual, 0);
         }
     }

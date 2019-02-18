@@ -9,6 +9,7 @@ C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\bin\Debug\TaskManage
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\bin\Debug\TaskManager.UnitTest.pdb
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\bin\Debug\EntityFramework.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\bin\Debug\NBench.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\bin\Debug\nunit.framework.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\bin\Debug\TaskManager.BL.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\bin\Debug\TaskManager.DAL.dll
@@ -23,4 +24,3 @@ C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\bin\Debug\nunit.fram
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\obj\Debug\TaskManager.UnitTest.csproj.CopyComplete
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\obj\Debug\TaskManager.UnitTest.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\obj\Debug\TaskManager.UnitTest.pdb
-C:\Capsule\TaskManager Web\TaskManager\TaskManager.UnitTest\bin\Debug\NBench.dll
