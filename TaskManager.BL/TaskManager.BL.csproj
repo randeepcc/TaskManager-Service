@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ParentBO.cs" />
     <Compile Include="ProjectBO.cs" />
     <Compile Include="TaskBO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

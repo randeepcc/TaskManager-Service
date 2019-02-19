@@ -11,50 +11,45 @@ using System.Web.Http.Cors;
 namespace TaskManager.API.Controllers
 {
     [EnableCors(origins: "*", headers: "*", methods: "*")]
-    public class ProjectController : ApiController
+    public class ParentTaskController : ApiController
     {
-        
-        ProjectBO obj = new ProjectBO();
+        ParentBO obj = new ParentBO();
 
-        [Route("GetAllProjects")]
+        [Route("GetAllParentTasks")]
         public IHttpActionResult Get()
         {
             return Ok(obj.GetAll());
         }
 
         // GET: api/Project/5
-        [Route("GetProjectById/{id}")]
+        [Route("GetParentTaskById/{id}")]
         public IHttpActionResult Get(int id)
         {
-            return Ok(obj.GetProject(id));
-            //return obj.GetTask(id);
+            return Ok(obj.GetParentTasks(id));
         }
 
-        // POST: api/Project
-        //[Route("UpdateProject")]
-        //[HttpPost]
-        public IHttpActionResult Post(Project item)
+       
+        public IHttpActionResult Post(ParentTask item)
         {
-            obj.AddProject(item);
-            return Ok("Project saved successfully");
+            obj.AddParentTask(item);
+            return Ok("Task saved successfully");
         }
 
         // PUT: api/Project/5
 
-        [Route("UpdateProject")]
+        [Route("UpdateParentTask")]
         [HttpPut]
-        public IHttpActionResult UpdateTask(Project item)
+        public IHttpActionResult UpdateTask(ParentTask item)
         {
-            obj.EditProject(item);
+            obj.EditParentTask(item);
             return Ok("Record saved successfully");
         }
 
-        [Route("EndProject")]
+        [Route("EndParent")]
         [HttpPut]
         public void End(int id)
         {
         }
 
-        
     }
 }
