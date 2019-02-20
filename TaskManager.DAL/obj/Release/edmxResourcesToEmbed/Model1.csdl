@@ -22,6 +22,7 @@
     <Property Name="StartDate" Type="DateTime" Precision="3" />
     <Property Name="EndDate" Type="DateTime" Precision="3" />
     <Property Name="Priority" Type="Int32" />
+    <Property Name="Manager" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
   </EntityType>
   <EntityType Name="Task">
     <Key>

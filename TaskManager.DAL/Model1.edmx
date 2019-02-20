@@ -21,6 +21,7 @@
           <Property Name="StartDate" Type="datetime" />
           <Property Name="EndDate" Type="datetime" />
           <Property Name="Priority" Type="int" />
+          <Property Name="Manager" Type="varchar" MaxLength="250" />
         </EntityType>
         <EntityType Name="Task">
           <Key>
@@ -78,6 +79,7 @@
           <Property Name="StartDate" Type="DateTime" Precision="3" />
           <Property Name="EndDate" Type="DateTime" Precision="3" />
           <Property Name="Priority" Type="Int32" />
+          <Property Name="Manager" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
         </EntityType>
         <EntityType Name="Task">
           <Key>
@@ -120,6 +122,7 @@
           <EntitySetMapping Name="Projects">
             <EntityTypeMapping TypeName="TaskDBModel.Project">
               <MappingFragment StoreEntitySet="Project">
+                <ScalarProperty Name="Manager" ColumnName="Manager" />
                 <ScalarProperty Name="Priority" ColumnName="Priority" />
                 <ScalarProperty Name="EndDate" ColumnName="EndDate" />
                 <ScalarProperty Name="StartDate" ColumnName="StartDate" />

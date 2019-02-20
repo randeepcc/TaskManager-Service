@@ -274,28 +274,28 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/01/2018 11:20:56</publishTime>
     </File>
     <File Include="bin/TaskManager.API.dll">
-      <publishTime>02/17/2019 21:59:53</publishTime>
+      <publishTime>02/20/2019 04:09:18</publishTime>
     </File>
     <File Include="bin/TaskManager.API.pdb">
-      <publishTime>02/17/2019 21:59:53</publishTime>
+      <publishTime>02/20/2019 04:09:18</publishTime>
     </File>
     <File Include="bin/TaskManager.BL.dll">
-      <publishTime>02/17/2019 21:59:52</publishTime>
+      <publishTime>02/20/2019 04:09:18</publishTime>
     </File>
     <File Include="bin/TaskManager.BL.dll.config">
       <publishTime>01/05/2019 22:29:26</publishTime>
     </File>
     <File Include="bin/TaskManager.BL.pdb">
-      <publishTime>02/17/2019 21:59:52</publishTime>
+      <publishTime>02/20/2019 04:09:18</publishTime>
     </File>
     <File Include="bin/TaskManager.DAL.dll">
-      <publishTime>02/17/2019 21:59:52</publishTime>
+      <publishTime>02/20/2019 04:09:18</publishTime>
     </File>
     <File Include="bin/TaskManager.DAL.dll.config">
       <publishTime>02/17/2019 21:56:36</publishTime>
     </File>
     <File Include="bin/TaskManager.DAL.pdb">
-      <publishTime>02/17/2019 21:59:52</publishTime>
+      <publishTime>02/20/2019 04:09:18</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>01/23/2014 12:57:34</publishTime>

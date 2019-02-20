@@ -9,3 +9,4 @@ C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL.csproj.CopyComplete
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL.pdb
+C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Debug\TaskManager.DAL.csprojAssemblyReference.cache
