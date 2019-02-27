@@ -59,6 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ProjectManagerNBenchtesting.cs" />
     <Compile Include="TaskBOTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -67,6 +68,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\TaskManager.API\TaskManager.API.csproj">
+      <Project>{abb5ed09-afaa-41c7-9874-627b4294c529}</Project>
+      <Name>TaskManager.API</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TaskManager.BL\TaskManager.BL.csproj">
       <Project>{a0032e66-0820-4745-9c23-85796ef363f6}</Project>
       <Name>TaskManager.BL</Name>
@@ -75,6 +80,9 @@
       <Project>{1bc8862e-62c0-4a20-9472-106cf965d4d2}</Project>
       <Name>TaskManager.DAL</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

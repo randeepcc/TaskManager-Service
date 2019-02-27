@@ -1,0 +1,6 @@
+C:\Capsule\ProjectWebservice\TaskManager.PerformanceTest\bin\Release\TaskManager.PerformanceTest.dll
+C:\Capsule\ProjectWebservice\TaskManager.PerformanceTest\bin\Release\TaskManager.PerformanceTest.pdb
+C:\Capsule\ProjectWebservice\TaskManager.PerformanceTest\obj\Release\TaskManager.PerformanceTest.csprojAssemblyReference.cache
+C:\Capsule\ProjectWebservice\TaskManager.PerformanceTest\obj\Release\TaskManager.PerformanceTest.csproj.CoreCompileInputs.cache
+C:\Capsule\ProjectWebservice\TaskManager.PerformanceTest\obj\Release\TaskManager.PerformanceTest.dll
+C:\Capsule\ProjectWebservice\TaskManager.PerformanceTest\obj\Release\TaskManager.PerformanceTest.pdb

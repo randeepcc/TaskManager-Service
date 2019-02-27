@@ -19,6 +19,6 @@ namespace TaskManager.DAL
         public Nullable<System.DateTime> StartDate { get; set; }
         public Nullable<System.DateTime> EndDate { get; set; }
         public Nullable<int> Priority { get; set; }
-        public string Managers { get; set; }
+        public string Manager { get; set; }
     }
 }

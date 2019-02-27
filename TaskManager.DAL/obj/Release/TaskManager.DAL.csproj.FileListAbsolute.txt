@@ -10,3 +10,15 @@ C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Release\TaskManager.D
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Release\TaskManager.DAL.csproj.CopyComplete
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Release\TaskManager.DAL.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.DAL\obj\Release\TaskManager.DAL.pdb
+C:\Capsule\ProjectWebservice\TaskManager.DAL\bin\Release\TaskManager.DAL.dll.config
+C:\Capsule\ProjectWebservice\TaskManager.DAL\bin\Release\TaskManager.DAL.dll
+C:\Capsule\ProjectWebservice\TaskManager.DAL\bin\Release\TaskManager.DAL.pdb
+C:\Capsule\ProjectWebservice\TaskManager.DAL\bin\Release\EntityFramework.dll
+C:\Capsule\ProjectWebservice\TaskManager.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Capsule\ProjectWebservice\TaskManager.DAL\bin\Release\EntityFramework.xml
+C:\Capsule\ProjectWebservice\TaskManager.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Capsule\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.csproj.CoreCompileInputs.cache
+C:\Capsule\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.csproj.CopyComplete
+C:\Capsule\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.dll
+C:\Capsule\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.pdb
+C:\Capsule\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.csprojAssemblyReference.cache
