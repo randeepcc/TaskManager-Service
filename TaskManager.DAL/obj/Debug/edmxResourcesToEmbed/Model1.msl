@@ -12,6 +12,7 @@
     <EntitySetMapping Name="Projects">
       <EntityTypeMapping TypeName="TaskDBModel.Project">
         <MappingFragment StoreEntitySet="Project">
+          <ScalarProperty Name="testColumn" ColumnName="testColumn" />
           <ScalarProperty Name="Manager" ColumnName="Manager" />
           <ScalarProperty Name="Priority" ColumnName="Priority" />
           <ScalarProperty Name="EndDate" ColumnName="EndDate" />

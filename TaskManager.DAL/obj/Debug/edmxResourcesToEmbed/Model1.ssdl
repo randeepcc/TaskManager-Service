@@ -17,6 +17,7 @@
     <Property Name="EndDate" Type="datetime" />
     <Property Name="Priority" Type="int" />
     <Property Name="Manager" Type="varchar" MaxLength="250" />
+    <Property Name="testColumn" Type="nchar" MaxLength="10" />
   </EntityType>
   <EntityType Name="Task">
     <Key>

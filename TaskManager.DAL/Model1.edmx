@@ -22,6 +22,7 @@
           <Property Name="EndDate" Type="datetime" />
           <Property Name="Priority" Type="int" />
           <Property Name="Manager" Type="varchar" MaxLength="250" />
+          <Property Name="testColumn" Type="nchar" MaxLength="10" />
         </EntityType>
         <EntityType Name="Task">
           <Key>
@@ -80,6 +81,7 @@
           <Property Name="EndDate" Type="DateTime" Precision="3" />
           <Property Name="Priority" Type="Int32" />
           <Property Name="Manager" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="testColumn" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
         </EntityType>
         <EntityType Name="Task">
           <Key>
@@ -122,6 +124,7 @@
           <EntitySetMapping Name="Projects">
             <EntityTypeMapping TypeName="TaskDBModel.Project">
               <MappingFragment StoreEntitySet="Project">
+                <ScalarProperty Name="testColumn" ColumnName="testColumn" />
                 <ScalarProperty Name="Manager" ColumnName="Manager" />
                 <ScalarProperty Name="Priority" ColumnName="Priority" />
                 <ScalarProperty Name="EndDate" ColumnName="EndDate" />

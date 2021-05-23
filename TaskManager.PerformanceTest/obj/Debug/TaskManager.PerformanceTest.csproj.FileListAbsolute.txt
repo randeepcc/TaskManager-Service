@@ -4,3 +4,11 @@ C:\Capsule\TaskManager Web\TaskManager\TaskManager.PerformanceTest\obj\Debug\Tas
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.csproj.CoreCompileInputs.cache
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.dll
 C:\Capsule\TaskManager Web\TaskManager\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.pdb
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.PerformanceTest\bin\Debug\TaskManager.PerformanceTest.dll
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.PerformanceTest\bin\Debug\TaskManager.PerformanceTest.pdb
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.PerformanceTest\bin\Debug\NBench.dll
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.csprojAssemblyReference.cache
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.csproj.CoreCompileInputs.cache
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.csproj.CopyComplete
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.dll
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.PerformanceTest\obj\Debug\TaskManager.PerformanceTest.pdb

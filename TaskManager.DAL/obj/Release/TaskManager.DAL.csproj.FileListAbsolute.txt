@@ -22,3 +22,15 @@ C:\Capsule\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.csproj.
 C:\Capsule\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.dll
 C:\Capsule\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.pdb
 C:\Capsule\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.csprojAssemblyReference.cache
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.DAL\bin\Release\TaskManager.DAL.dll.config
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.DAL\bin\Release\TaskManager.DAL.dll
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.DAL\bin\Release\TaskManager.DAL.pdb
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.DAL\bin\Release\EntityFramework.dll
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.DAL\bin\Release\EntityFramework.xml
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.csprojAssemblyReference.cache
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.csproj.CoreCompileInputs.cache
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.csproj.CopyComplete
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.dll
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.DAL\obj\Release\TaskManager.DAL.pdb

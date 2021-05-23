@@ -27,6 +27,16 @@ namespace TaskManager.UnitTest
 
         [Test]
         [TestCase]
+        public void testGetAllUsers()
+        {
+            UsersBO obj = new UsersBO();
+            int actual = obj.GetAll().Count;
+            Assert.Greater(actual, 0);
+        }
+
+
+        [Test]
+        [TestCase]
         [PerfBenchmark(NumberOfIterations = 500, RunTimeMilliseconds = 600000, RunMode = RunMode.Iterations)]
         [CounterMeasurement("MyCounter")]
         [MemoryMeasurement(MemoryMetric.TotalBytesAllocated)]

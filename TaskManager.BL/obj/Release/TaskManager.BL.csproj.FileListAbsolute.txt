@@ -28,3 +28,18 @@ C:\Capsule\ProjectWebservice\TaskManager.BL\obj\Release\TaskManager.BL.csproj.Co
 C:\Capsule\ProjectWebservice\TaskManager.BL\obj\Release\TaskManager.BL.csproj.CopyComplete
 C:\Capsule\ProjectWebservice\TaskManager.BL\obj\Release\TaskManager.BL.dll
 C:\Capsule\ProjectWebservice\TaskManager.BL\obj\Release\TaskManager.BL.pdb
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\bin\Release\TaskManager.BL.dll.config
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\bin\Release\TaskManager.BL.dll
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\bin\Release\TaskManager.BL.pdb
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\bin\Release\EntityFramework.dll
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\bin\Release\EntityFramework.SqlServer.dll
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\bin\Release\TaskManager.DAL.dll
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\bin\Release\TaskManager.DAL.pdb
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\bin\Release\TaskManager.DAL.dll.config
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\bin\Release\EntityFramework.xml
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\bin\Release\EntityFramework.SqlServer.xml
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\obj\Release\TaskManager.BL.csprojAssemblyReference.cache
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\obj\Release\TaskManager.BL.csproj.CoreCompileInputs.cache
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\obj\Release\TaskManager.BL.csproj.CopyComplete
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\obj\Release\TaskManager.BL.dll
+C:\Randeep\Proffessional\FSE\FSE Project-20200814T152536Z-001\FSE Project\ProjectWebservice\TaskManager.BL\obj\Release\TaskManager.BL.pdb

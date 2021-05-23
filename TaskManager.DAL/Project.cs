@@ -20,5 +20,6 @@ namespace TaskManager.DAL
         public Nullable<System.DateTime> EndDate { get; set; }
         public Nullable<int> Priority { get; set; }
         public string Manager { get; set; }
+        public string testColumn { get; set; }
     }
 }
